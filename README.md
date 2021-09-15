@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 I'm Nitesh Gupta, junior at National Institute of Technology Karnataka ,Surathkal .I am interested in Web development, Machine Learning and Competitive
 programming
-:mailbox: Reach me out!
+
 
 ![code](https://user-images.githubusercontent.com/56041569/133371817-9bc1a573-563e-4e94-a412-f4db088ff16b.gif)
 
-
+:mailbox: Reach me out!
 [![Twitter Badge](https://img.shields.io/badge/-@Nitesh-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NiteshG03675427)](https://twitter.com/NiteshG03675427) [![Linkedin Badge](https://img.shields.io/badge/-Nitesh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niteshnitk) [![Mail Badge](https://img.shields.io/badge/-@Nitesh-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/nitesh_kr_gupta___/) [![Mail Badge](https://img.shields.io/badge/-Nitesh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:guptanitesh400@gmail.com)
 
 
