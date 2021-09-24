@@ -26,10 +26,13 @@ programming
 
 
 
-- 🔭 I’m currently working on Web development(MERN)
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for internship opportunities
-- 📫 How to reach me: guptanitesh400@gmail.com.
+- 🔭 I’m currently learning Web development(MERN)
+- ⚡ Love to brainstorm and dicuss ideas 
+- 🛠Love to build cool things on vscode
+- 🤔 Open to collaborate on projects, ideas or internship opportunities.
+
+
+
 
 #### Top Technologies
 
