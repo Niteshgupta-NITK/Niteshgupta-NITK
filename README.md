@@ -26,10 +26,10 @@ programming
 
 
 
-- 🔭 I’m currently learning Web development(MERN)
+- 🔭 I am learning backend Technologies (Nodejs) 
 - ⚡ Love to brainstorm and dicuss ideas 
 - 🛠Love to build cool things on vscode
-- 🤔 Open to collaborate on projects, ideas or internship opportunities.
+- 🤔 Open to collaborate on projects or ideas .
 
 
 
