@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a software developer , loves to build stuffs .
+I am a software developer , love to build stuffs .
 
 
 ![code](https://user-images.githubusercontent.com/56041569/133371817-9bc1a573-563e-4e94-a412-f4db088ff16b.gif)
