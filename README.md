@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a software developer , love to build stuffs .
+⚙️ Backend Engineer @ Oracle | System Design • Distributed Systems • Scalable Infra
+
+I build high-performance backend systems powering 1M+ transactions/day — from microservices and caching layers to event-driven data pipelines. At Oracle, I’ve led key migrations from monoliths to microservices, optimized ingestion pipelines, and improved performance 4x under load.
+
+I’ve also built side projects like ElasticSync (CDC with Kafka + Debezium + Elasticsearch) and Cache++ (Redis-style in-memory DB in C++ with sharding, replication).
+
+Tech I use daily: Java, C++, Redis, Kafka, RabbitMQ, Docker, REST, SQL, System Design.
 
 
 ![code](https://user-images.githubusercontent.com/56041569/133371817-9bc1a573-563e-4e94-a412-f4db088ff16b.gif)
